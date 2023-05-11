@@ -13,12 +13,12 @@ This mini project is dedicated to following topics:
 ### Data
 We will be using old data about different financial transactions. You can download the data from [here](https://drive.google.com/file/d/1zAjnf936aHkwVCq_BmA47p4lpRjyRzMf/view?usp=sharing). The data contains following tables:
 
-- twm_customer - information about customers
+- BEN - twm_customer - information about customers
 - twm_accounts - information about accounts
 - twm_checking_accounts - information about checking accounts (subset of twm_accounts)
 - twm_credit_accounts - information about checking accounts (subset of twm_accounts)
 - twm_savings_accounts - information about checking accounts (subset of twm_accounts)
-- twm_transactions - information about financial transactions
+- BRITTANY - twm_transactions - information about financial transactions
 - twm_savings_tran - information about savings transactions (subset of twm_transactions)
 - twm_checking_tran - information about savings transactions (subset of twm_transactions)
 - twm_credit_tran - information about credit checking (subset of twm_transactions)
@@ -36,7 +36,6 @@ In this miniproject, we will:
         - do they have credit account? How much do they live in debt?
         - are they making lot of small transactions or few huge ones?
 
-Touch base at some point tomorrow before moving on
 
 2. visualize the created clusters using [radar charts](https://plotly.com/python/radar-chart/) and compare them agains each other
 
